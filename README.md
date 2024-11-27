@@ -33,20 +33,21 @@ I love creating dynamic and responsive applications, and I’m passionate about 
 #### Database:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+## Portfolio:
 
 ## Portfolio:
 
-Check out my portfolio: [Shubham's Portfolio](https://reactportfolioshubhamparade.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=react&logoColor=white&color=black)](https://reactportfolioshubhamparade.netlify.app/)
 
 ## Connect with me:
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/shubhamparade/)  
 [![Email](https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:paradeshubham6865@gmail.com)
 
+
 ## GitHub Stats:
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubham6865&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shubham's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham6865&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubham6865&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shubham's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham6865&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
