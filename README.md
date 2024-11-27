@@ -33,7 +33,6 @@ I love creating dynamic and responsive applications, and I’m passionate about 
 #### Database:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-## Portfolio:
 
 ## Portfolio:
 
