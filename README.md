@@ -37,11 +37,16 @@ I love creating dynamic and responsive applications, and I’m passionate about 
 
 ## Portfolio:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=react&logoColor=white&color=black)](https://reactportfolioshubhamparade.netlify.app/)
+<a href="https://reactportfolioshubhamparade.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=react&logoColor=white&color=black" alt="Portfolio" />
+</a>
 
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/shubhamparade/)  
+<a href="https://www.linkedin.com/in/shubhamparade/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn" />
+</a>
+
 [![Email](https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:paradeshubham6865@gmail.com)
 
 
