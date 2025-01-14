@@ -29,7 +29,7 @@ I love creating dynamic and responsive applications, and I’m passionate about 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 #### Database:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
@@ -47,6 +47,21 @@ I love creating dynamic and responsive applications, and I’m passionate about 
 </a>
 
 [![Email](https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=black)](mailto:paradeshubham6865@gmail.com)
+
+# Welcome to My GitHub Profile! 👋
+
+## GitHub Stats:
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubham6865&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Shubham's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham6865&layout=compact&theme=radical&hide_border=true" /> |
+| ------------- | ------------- |
+
+## Contribution Graph:
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham6865&theme=radical&hide_border=true" alt="Shubham's Contribution Graph" />
+
+
+## Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=Shubham6865&color=brightgreen&style=flat-square)
+
 
 
 
